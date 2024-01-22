@@ -11,7 +11,7 @@ Accepted at ICCV 2023!
 
 Repository contains:
 * Training Code
-* Model Weights
+* Model Weights [Todo]
 * Fine-tuning and evaluation datasets: MSR-VTT and YouCook2
 
 ## Get started
