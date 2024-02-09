@@ -8,6 +8,8 @@ This repo is official implementation of [Preserving Modality Structure Improves 
 
 [Project Page](https://swetha5.github.io/MultiSK/)
 
+[Hugging Face](https://huggingface.co/papers/2308.13077)
+
 ![alt text](arch.jpeg)
 
 
